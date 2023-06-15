@@ -21,6 +21,7 @@ public class ArticleEntity {
 //    Generated from title
     private String code;
 
+    @Column(columnDefinition = "TEXT")
     private String content;
 
     private String description;
