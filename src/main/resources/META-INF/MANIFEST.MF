@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.minhvan.hrm.NewsApplication
+Class-Path: hibernate-core-6.1.7.Final.jar jakarta.transaction-api-2.0.1
+ .jar spring-beans-6.0.9.jar jakarta.inject-api-2.0.0.jar jakarta.annota
+ tion-api-2.1.1.jar istack-commons-runtime-4.1.1.jar jaxb-runtime-4.0.2.
+ jar byte-buddy-1.12.23.jar jakarta.activation-api-2.1.2.jar mysql-conne
+ ctor-j-8.0.33.jar spring-boot-starter-web-3.0.7.jar spring-boot-starter
+ -3.0.7.jar spring-boot-autoconfigure-3.0.7.jar spring-boot-starter-jdbc
+ -3.0.7.jar checker-qual-3.5.0.jar spring-boot-starter-tomcat-3.0.7.jar 
+ jackson-databind-2.14.3.jar jackson-datatype-jdk8-2.14.3.jar spring-exp
+ ression-6.0.9.jar tomcat-embed-el-10.1.8.jar jackson-core-2.14.3.jar mi
+ crometer-commons-1.10.7.jar spring-boot-3.0.7.jar spring-core-6.0.9.jar
+  spring-jdbc-6.0.9.jar jul-to-slf4j-2.0.7.jar angus-activation-2.0.0.ja
+ r spring-boot-starter-aop-3.0.7.jar hibernate-commons-annotations-6.0.6
+ .Final.jar slf4j-api-2.0.7.jar classmate-1.5.1.jar spring-data-jpa-3.0.
+ 6.jar jackson-annotations-2.14.3.jar txw2-4.0.2.jar spring-data-commons
+ -3.0.6.jar snakeyaml-1.33.jar jakarta.xml.bind-api-4.0.0.jar jaxb-core-
+ 4.0.2.jar log4j-to-slf4j-2.19.0.jar log4j-api-2.19.0.jar tomcat-embed-w
+ ebsocket-10.1.8.jar spring-boot-starter-data-jpa-3.0.7.jar jackson-data
+ type-jsr310-2.14.3.jar spring-webmvc-6.0.9.jar lombok-1.18.26.jar jande
+ x-2.4.2.Final.jar tomcat-embed-core-10.1.8.jar logback-classic-1.4.7.ja
+ r spring-jcl-6.0.9.jar jboss-logging-3.5.0.Final.jar spring-orm-6.0.9.j
+ ar antlr4-runtime-4.10.1.jar logback-core-1.4.7.jar postgresql-42.5.4.j
+ ar jakarta.persistence-api-3.1.0.jar spring-tx-6.0.9.jar spring-aop-6.0
+ .9.jar aspectjweaver-1.9.19.jar spring-boot-starter-logging-3.0.7.jar H
+ ikariCP-5.0.1.jar spring-context-6.0.9.jar micrometer-observation-1.10.
+ 7.jar spring-aspects-6.0.9.jar spring-boot-starter-json-3.0.7.jar jacks
+ on-module-parameter-names-2.14.3.jar spring-web-6.0.9.jar
+
